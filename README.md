@@ -10,6 +10,6 @@ I have been building APIs and tools for Machine Learning and data systems, in th
 
 You can find me on:
 
-* [GitHub as @tiangolo (you are here)](https://github.com/sepehr-akbarzadeh)
+* [GitHub as @sepehr.ak (you are here)](https://github.com/sepehr-akbarzadeh)
 * [LinkedIn](https://linkedin.com/in/sepehr-akbarzadeh)
 * [Instagram](https://instagram.com/sepehr.akbarzadeh)
