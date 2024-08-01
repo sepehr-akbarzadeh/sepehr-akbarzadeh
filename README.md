@@ -1,16 +1,15 @@
-## Hi there 👋
+Hey! I'm Sepehr Akbarzadeh**. 👋
 
-<!--
-**sepehr-akbarzadeh/sepehr-akbarzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer.
 
-Here are some ideas to get you started:
+I currently live in Doha, Qatar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I created **<a href="https://github.com/sageteamorg" target="_blank">SAGE Team</a>** Organization and a bunch of other open source tools. 🚀
+
+I have been building APIs and tools for Machine Learning and data systems, in the Middle East, and Europe, with different teams and organizations. 🌎
+
+You can find me on:
+
+* [GitHub as @tiangolo (you are here)](https://github.com/sepehr-akbarzadeh)
+* [LinkedIn](https://linkedin.com/in/sepehr-akbarzadeh)
+* [Instagram](https://instagram.com/sepehr.akbarzadeh)
